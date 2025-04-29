@@ -1,7 +1,17 @@
-🎬 Movie Trends App 🍿
+🎬 TrendScreen App 
 
 
-Welcome to the Movie Trends App! 
+🚀 Live Link:- https://trend-screen.vercel.app/
+
+(Try using VPN if movies not loading as TMDB API'S server down in India.)
+
+
+![TrendScreen](https://github.com/user-attachments/assets/0194ad4d-8b1b-4887-bc2e-32c781248844)
+
+
+
+
+🍿 Welcome to the TrendScreen App! 
 
 
 🚀This vibrant React.js single-page app lets you browse blockbuster movies, search for your favorites, and discover what's trending based on user searches. Built with modern tools and a sprinkle of magic ✨, it’s fully responsive and ready to shine on any device. Let’s dive into the cinematic experience! 🎥
